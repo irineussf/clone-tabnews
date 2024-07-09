@@ -1,0 +1,26 @@
+[33mcommit d610e8d2f74eb85c5db75783f306831dee3b6ca1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: irineussf <62066221+irineussf@users.noreply.github.com>
+Date:   Thu Jul 4 21:05:19 2024 +0000
+
+    adiciona o arquivo .nvmrc
+
+ .nvmrc | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 8eb6fdfff1105737d45df4a01aab8ef24c2ebdb4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: irineussf <62066221+irineussf@users.noreply.github.com>
+Date:   Thu Jul 4 17:25:57 2024 +0000
+
+    adiciona o arquivo .gitignore
+
+ .gitignore | 4 [32m++++[m
+ 1 file changed, 4 insertions(+)
+
+[33mcommit 5f49259b36ab5e4c9ef59d189988d38276839a60[m
+Author: irineussf <62066221+irineussf@users.noreply.github.com>
+Date:   Fri Jun 28 13:15:59 2024 -0300
+
+    Initial commit
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
