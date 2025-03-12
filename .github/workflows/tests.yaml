@@ -1,4 +1,4 @@
-name: Automated Tests
+git name: Automated Tests
 on: pull_request
 jobs:
   jest:
